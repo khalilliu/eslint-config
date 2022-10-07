@@ -20,6 +20,7 @@
     "url": "git+https://github.com/khalilliu/acjoy-eslint-config.git"
   },
   "scripts": {
+    "release": "pnpm -r publish --access public",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
